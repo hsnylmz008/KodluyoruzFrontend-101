@@ -1,0 +1,182 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about-us {
+    background-color: rgb(172, 255, 172);
+}
+
+.contact {
+    background-image: url(img/wallpaper.png);
+}
+
+#kaktushop{
+    font-family: "Lucida Handwriting", "Courier New", monospace;
+    color:#8b4513;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.logo {
+    display: block;
+    width:35px;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.ust-menu{
+    background-color: #ffa500;
+    max-height: 50px;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 20px;
+    overflow: hidden;
+    text-align-last:center;
+
+}
+
+.alt-menu{
+    background-color: #808080;
+    max-height: 50px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+}
+
+.ust-menu a {
+    padding-top: 50px;
+    text-decoration: none;
+    color: #8b4513;
+}
+
+.ust-menu a:hover {
+    padding-top: 50px;
+    text-decoration: none;
+    color : #00f;
+}
+
+p {
+    color: #2f4f4f;
+}
+
+span{
+    color:#fa8072
+}
+
+span:hover {
+    color: #8a2be2
+}
+
+#baslik {
+    color: #983333;
+    text-align: center;
+}
+
+.urunler {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+#urunlerimiz {
+    color: #008000;   
+}
+
+.urunler a {
+    color:#983333;
+    display: block;
+    margin-left: 30%;
+    margin-right: 40%;
+    margin-bottom: 8%;
+    text-decoration: none;
+}
+
+.urunler a:hover {
+    display: block;
+    margin-left: 30%;
+    margin-right: 40%;
+    margin-bottom: 8%;
+    color: #8a2be2; 
+}
+
+.alt-baslık {
+    text-align: center;
+}
+
+.urun {
+    text-align: center;
+}
+
+#kaktus {
+    color:#983333;
+
+}
+
+#skulent {
+    color:#983333;
+}
+
+#setler {
+    color:#983333;
+}
+
+#saksı {
+    color:#983333;
+}
+
+.about-us {
+    text-align: center;
+    color: #008000;
+}
+
+.hakkımızda {
+    color:#8b4513
+}
+
+.contact {
+    text-align: center;
+    color: #008000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.form-row {
+    margin-bottom: 20px;
+}
+  
+.form-row > label {
+    display: block;
+    margin-bottom: 6px;
+}
+  
+input[type="text"],
+input[type="tel"],
+input[type="email"],
+select,
+button,
+textarea {
+    width: 35%;
+    border-radius: 5px;
+    height: 42px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: inherit;
+    font-family: inherit;
+    background-color: rgb(204, 193, 193);
+}
+  
+input[type="text"]::placeholder,
+input[type="tel"]::placeholder,
+input[type="email"]::placeholder,
+textarea::placeholder {
+    color: rgb(113, 111, 111);
+}
+
+button[type="submit"] {
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(17, 145, 236);
+    width: 100px;
+  }
