@@ -7,7 +7,7 @@
 # Installation 
  Öncelikle bu projeyi clonelayın.
  ```
-https://github.com/Hsnatik/Kodluyoruz-Frontend-101-CSS.git
+https://github.com/hsnylmz008/KodluyoruzFrontend-101.git
  ```
 
  # Usage
